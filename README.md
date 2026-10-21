@@ -48,7 +48,6 @@ Currently interning at **Coovum (COO24 Technologies)**, building IoT and embedde
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NANDAVELAN&theme=tokyo-night&hide_border=true&radius=10&area=true" width="100%" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=NANDAVELAN&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" height="160" />
 
