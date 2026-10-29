@@ -144,8 +144,8 @@ I'm currently diving deeper into **cloud and data engineering**, the **VLSI desi
 <div align="center">
 
 <!-- Replace YOUR_LEETCODE_USERNAME in both places below -->
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="70%" />
+<a href="https://leetcode.com/u/NADAVELAN S.P.S/">
+  <img src="https://leetcard.jacoblin.cool/NANDAVELAN S.P.S?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="70%" />
 </a>
 
 <br/><br/>
