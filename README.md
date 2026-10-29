@@ -186,3 +186,11 @@ Open to **internships, collaborations, and interesting engineering projects**.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" width="100%" />
 
 </div>
+
+
+<p align="center">
+  <strong>Built with ❤️ by NANDAVELAN</strong><br>
+  <a href="https://www.linkedin.com/in/nandavelan/">LinkedIn</a>
+  ·
+  <a href="https://x.com/nandavelan sps">Twitter</a>
+</p>
