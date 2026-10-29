@@ -128,12 +128,12 @@ I'm currently diving deeper into **cloud and data engineering**, the **VLSI desi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NANDAVELAN&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&include_all_commits=true&count_private=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NANDAVELAN&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" height="170" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=NANDAVELAN&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&include_all_commits=true&count_private=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NANDAVELAN&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" height="170" /> -->
 
 <img src="https://streak-stats.demolab.com/?user=NANDAVELAN&theme=tokyonight&hide_border=true&border_radius=10" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NANDAVELAN&theme=tokyo-night&hide_border=true&radius=10&area=true" width="100%" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=NANDAVELAN&theme=tokyo-night&hide_border=true&radius=10&area=true" width="100%" /> -->
 
 </div>
 
